@@ -1,5 +1,5 @@
 export interface UserDto {
-  id: number;
-  fullname: string;
-  balance: number;
+    id: number;
+    fullname: string;
+    balance: number;
 }
